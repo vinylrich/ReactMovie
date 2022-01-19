@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4cae5f9f.css","mappings":"AAAA,sBAEI,wBAA0B,CAD1B,UAEJ,CACA,gBACI,UACJ,CACA,oBACI,SACJ","sources":["movie.module.css"],"sourcesContent":[".default {\r\n    color: white;\r\n    background-color: darkgray;\r\n}\r\n.a{\r\n    color:white;\r\n}\r\n.genre{\r\n    color:red;\r\n}"],"names":[],"sourceRoot":""}
