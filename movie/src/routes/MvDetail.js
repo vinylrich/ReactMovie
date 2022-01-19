@@ -1,6 +1,6 @@
 import {useParams} from "react-router-dom";
 import {useEffect, useState} from "react";
-import styles from "../movie.module.css"
+import styles from "./Movie.module.css"
 import Detail from "../components/Detail.js"
 function MvDetail(){
     const {id} = useParams() // useParams = parameter값을 가져오는 함수

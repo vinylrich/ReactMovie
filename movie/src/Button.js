@@ -1,5 +1,5 @@
 import PropTypes from "prop-types"
-import styles from "./movie.module.css"
+import styles from "./routes/Movie.module.css"
 function Button({text}){
     return <button className={styles.btn}>{text}</button>;
 }

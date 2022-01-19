@@ -1,4 +1,4 @@
-import styles from "../movie.module.css";
+import styles from "../routes/Movie.module.css";
 
 function Detail({cover_img, title, genres, summary}){
 
